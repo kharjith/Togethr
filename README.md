@@ -1,11 +1,3 @@
-# Sample Snack app
+# Introducing "Togethr": Your Gateway to Social Connection and Activities
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
-
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
-
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+In today's fast-paced world, finding and engaging in meaningful social events and activities can be a challenge. Welcome to "Togethr," the app that redefines social interaction by bringing people together to post, discover, and participate in a wide array of engaging events and activities. "Togethr" is not just an app; it's a catalyst for building meaningful connections and sharing experiences with like-minded individuals. Join us in shaping a more vibrant, connected community. Download "Togethr" today and embark on a journey of social engagement like never before. Together, we'll create unforgettable memories and lasting friendships.
